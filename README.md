@@ -38,6 +38,10 @@ monty_hall_simulation/
    ```bash
    pip install pandas matplotlib
    ```
+   OR
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
