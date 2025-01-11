@@ -1,4 +1,4 @@
-# monty-hall-problem-statistical-simulation
+# statistical-simulation-monty-hall-problem
 
 This project simulates and visualizes the results of the Monty Hall paradox, a famous statistics and probability puzzle, under two strategies:
 1. **Switch**: The contestant always switches doors.
